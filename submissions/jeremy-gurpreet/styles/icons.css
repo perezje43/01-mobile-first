@@ -40,6 +40,8 @@
 }
 .icon-menu::before {
 	content: "\e902";
+	height: 100%;
+	width: 100%;
 }
 .icon-link::before {
 	content: "\e903";
@@ -67,9 +69,4 @@
 }
 .icon-github::before {
 	content: "\e907";
-}
-
-.hamburger-menu {
-	height: 50px;
-	width: 50px;
 }
